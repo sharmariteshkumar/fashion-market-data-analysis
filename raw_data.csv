@@ -1,0 +1,53 @@
+Brand,Category,Product_Name,Price_Raw,Target_Demographic,Availability_Status,Source_URL
+ Nike ,Men's Graphic T-Shirts,Nike Sportswear Club Fleece Tee,"₹ 2,860","Athletes, Fitness Users & Streetwear Enthusiasts",In Stock,https://www.nike.com/in/
+Nike,Performance Footwear,Nike Dri-FIT Legend Fitness Tee,"₹ 7,760","Athletes, Fitness Users & Streetwear Enthusiasts",In Stock,https://www.nike.com/in/
+Nike,Sportswear Tops,Nike Max90 Heavyweight Graphic Tee,"₹ 9,440","Athletes, Fitness Users & Streetwear Enthusiasts",In Stock,https://www.nike.com/in/
+ Nike ,Hoodies & Sweatshirts,Nike Pro Warm Tight,"₹ 3,780","Athletes, Fitness Users & Streetwear Enthusiasts",In Stock,https://www.nike.com/in/
+Nike,Training Tights,Nike Pegasus 40 Running Shoes,"₹ 10,550","Athletes, Fitness Users & Streetwear Enthusiasts",In Stock,https://www.nike.com/in/
+Nike,Men's Graphic T-Shirts,Nike Court Vision Low,"₹ 10,070","Athletes, Fitness Users & Streetwear Enthusiasts",In Stock,https://www.nike.com/in/
+ Nike ,Performance Footwear,Nike Sportswear Essential Hoodie,"₹ 7,420","Athletes, Fitness Users & Streetwear Enthusiasts",In Stock,https://www.nike.com/in/
+Nike,Sportswear Tops,Nike Element Half-Zip,N/A,"Athletes, Fitness Users & Streetwear Enthusiasts",Out of Stock,https://www.nike.com/in/
+Nike,Hoodies & Sweatshirts,Nike Dri-FIT Academy Top,"₹ 9,180","Athletes, Fitness Users & Streetwear Enthusiasts",In Stock,https://www.nike.com/in/
+ Nike ,Training Tights,Nike SB Logo Tee,"₹ 1,560","Athletes, Fitness Users & Streetwear Enthusiasts",In Stock,https://www.nike.com/in/
+ adidas ,Men's T-Shirts,adidas Essentials Base Tee,"₹ 7,950","Sports Fans, Fitness Users & Lifestyle Consumers",In Stock,https://www.adidas.co.in/
+adidas,Originals Lifestyle,adidas 3-Stripes Classic Cotton Tee,"₹ 1,410","Sports Fans, Fitness Users & Lifestyle Consumers",In Stock,https://www.adidas.co.in/
+adidas,Performance Apparel,adidas Performance Aeroready Tee,"₹ 3,520","Sports Fans, Fitness Users & Lifestyle Consumers",In Stock,https://www.adidas.co.in/
+ adidas ,Football Jerseys,adidas Originals Trefoil Graphic Tee,"₹ 5,960","Sports Fans, Fitness Users & Lifestyle Consumers",In Stock,https://www.adidas.co.in/
+adidas,Running Shoes,adidas Samba OG Sneakers,"₹ 9,290","Sports Fans, Fitness Users & Lifestyle Consumers",In Stock,https://www.adidas.co.in/
+adidas,Men's T-Shirts,adidas Ultraboost Light,"₹ 9,310","Sports Fans, Fitness Users & Lifestyle Consumers",In Stock,https://www.adidas.co.in/
+ adidas ,Originals Lifestyle,adidas Tiro Track Pants,"₹ 2,270","Sports Fans, Fitness Users & Lifestyle Consumers",In Stock,https://www.adidas.co.in/
+adidas,Performance Apparel,adidas Licensed Team Jersey,"₹ 4,570","Sports Fans, Fitness Users & Lifestyle Consumers",In Stock,https://www.adidas.co.in/
+adidas,Football Jerseys,adidas Motion Graphic Tee,"₹ 8,740","Sports Fans, Fitness Users & Lifestyle Consumers",In Stock,https://www.adidas.co.in/
+ adidas ,Running Shoes,adidas Z.N.E. Full-Zip Hoodie,"₹ 7,290","Sports Fans, Fitness Users & Lifestyle Consumers",In Stock,https://www.adidas.co.in/
+ Zara ,Women's Dresses,Zara Basic Short Fitted Dress,"₹ 7,250",Fashion-conscious Young Adults & Professionals,In Stock,https://www.zara.com/in/
+Zara,Men's Shirts,Zara Printed Midi Dress,"₹ 4,690",Fashion-conscious Young Adults & Professionals,In Stock,https://www.zara.com/in/
+Zara,Blazers & Suits,Zara Satin Effect Shirt Dress,"₹ 6,940",Fashion-conscious Young Adults & Professionals,In Stock,https://www.zara.com/in/
+ Zara ,Knitwear,Zara Draped Cut-Out Dress,"₹ 7,160",Fashion-conscious Young Adults & Professionals,In Stock,https://www.zara.com/in/
+Zara,Contemporary Tops,Zara Limited Edition Embroidered Dress,"₹ 7,910",Fashion-conscious Young Adults & Professionals,In Stock,https://www.zara.com/in/
+Zara,Women's Dresses,Zara Textured Linen Shirt,"₹ 4,690",Fashion-conscious Young Adults & Professionals,In Stock,https://www.zara.com/in/
+ Zara ,Men's Shirts,Zara Oversized Fit Blazer,"₹ 3,320",Fashion-conscious Young Adults & Professionals,In Stock,https://www.zara.com/in/
+Zara,Blazers & Suits,Zara Cropped Knit Top,"₹ 5,000",Fashion-conscious Young Adults & Professionals,In Stock,https://www.zara.com/in/
+Zara,Knitwear,Zara Wide-Leg High-Waisted Trousers,"₹ 8,380",Fashion-conscious Young Adults & Professionals,In Stock,https://www.zara.com/in/
+ Zara ,Contemporary Tops,Zara Faux Leather Jacket,"₹ 4,460",Fashion-conscious Young Adults & Professionals,In Stock,https://www.zara.com/in/
+ H&M ,Men's T-Shirts & Tops,H&M Regular Fit Crew-neck T-shirt,"₹ 1,970","Broad Mass Market, Students & Youth",In Stock,https://www2.hm.com/en_in/
+H&M,Basics & Everyday,H&M Relaxed Fit Graphic T-shirt,"₹ 2,470","Broad Mass Market, Students & Youth",In Stock,https://www2.hm.com/en_in/
+H & M,Youth Fashion,H&M Heavyweight Cotton Oversized Tee,₹ 770,"Broad Mass Market, Students & Youth",In Stock,https://www2.hm.com/en_in/
+ H&M ,Casual Denim,H&M Fine-knit Cotton Polo Shirt,"₹ 1,820","Broad Mass Market, Students & Youth",In Stock,https://www2.hm.com/en_in/
+H & M,Knitwear,H&M Slim Fit Chino Trousers,₹ 670,"Broad Mass Market, Students & Youth",In Stock,https://www2.hm.com/en_in/
+H&M,Men's T-Shirts & Tops,H&M Loose Jeans,₹ 930,"Broad Mass Market, Students & Youth",In Stock,https://www2.hm.com/en_in/
+ H&M ,Basics & Everyday,H&M Cotton Hoodie,"₹ 2,020","Broad Mass Market, Students & Youth",In Stock,https://www2.hm.com/en_in/
+H&M,Youth Fashion,H&M Oversized Printed Sweatshirt,"₹ 1,930","Broad Mass Market, Students & Youth",In Stock,https://www2.hm.com/en_in/
+H & M,Casual Denim,H&M Linen-blend Resort Shirt,₹ 610,"Broad Mass Market, Students & Youth",In Stock,https://www2.hm.com/en_in/
+ H&M ,Knitwear,H&M Ribbed Tank Top,"₹ 2,410","Broad Mass Market, Students & Youth",In Stock,https://www2.hm.com/en_in/
+ UNIQLO ,Men's T-Shirts,UNIQLO Dry-EX Crew Neck T-Shirt,"₹ 3,820","Broad Demographic, Students & Minimalist Adults",In Stock,https://www.uniqlo.com/in/
+UNIQLO,AIRism Functional Wear,UNIQLO AIRism Cotton Oversized Crew Neck Tee,"₹ 1,120","Broad Demographic, Students & Minimalist Adults",In Stock,https://www.uniqlo.com/in/
+UNIQLO,HEATTECH Innerwear,UNIQLO U Crew Neck Heavyweight Tee,"₹ 4,220","Broad Demographic, Students & Minimalist Adults",In Stock,https://www.uniqlo.com/in/
+ UNIQLO ,Casual Tops,UNIQLO HEATTECH Ultra Warm Top,"₹ 1,790","Broad Demographic, Students & Minimalist Adults",In Stock,https://www.uniqlo.com/in/
+UNIQLO,Minimalist Outerwear,UNIQLO Ultra Light Down Jacket,N/A,"Broad Demographic, Students & Minimalist Adults",Out of Stock,https://www.uniqlo.com/in/
+UNIQLO,Men's T-Shirts,UNIQLO Flannel Long Sleeve Shirt,"₹ 1,020","Broad Demographic, Students & Minimalist Adults",In Stock,https://www.uniqlo.com/in/
+ UNIQLO ,AIRism Functional Wear,UNIQLO Chino Shorts,"₹ 4,850","Broad Demographic, Students & Minimalist Adults",In Stock,https://www.uniqlo.com/in/
+UNIQLO,HEATTECH Innerwear,UNIQLO AIRism Seamless Bra Top,"₹ 4,390","Broad Demographic, Students & Minimalist Adults",In Stock,https://www.uniqlo.com/in/
+UNIQLO,Casual Tops,UNIQLO Stretch Selvedge Jeans,"₹ 1,700","Broad Demographic, Students & Minimalist Adults",In Stock,https://www.uniqlo.com/in/
+ UNIQLO ,Minimalist Outerwear,UNIQLO Fleece Full-Zip Jacket,"₹ 4,030","Broad Demographic, Students & Minimalist Adults",In Stock,https://www.uniqlo.com/in/
+Nike,Sportswear Tops,Nike Max90 Heavyweight Graphic Tee,"₹ 9,440","Athletes, Fitness Users & Streetwear Enthusiasts",In Stock,https://www.nike.com/in/
+adidas,Men's T-Shirts,adidas Ultraboost Light,"₹ 9,310","Sports Fans, Fitness Users & Lifestyle Consumers",In Stock,https://www.adidas.co.in/
